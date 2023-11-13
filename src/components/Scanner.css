@@ -3,12 +3,26 @@
     height: 350px;
     
 }
-
 .scConatiner{
     display: flex;
     justify-content: center;
 }
-
 .scConatiner div h1{
     text-align: center;
+}
+.reader{
+    border-radius: 10px;
+    background: #dedddc;
+}
+.reader button{
+    background: #2b3b35;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.reader span{
+    color: #2b3b35;
+    text-decoration: none;
 }
