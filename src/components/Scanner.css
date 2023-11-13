@@ -1,0 +1,14 @@
+.reader{
+    width: 350px;
+    height: 350px;
+    
+}
+
+.scConatiner{
+    display: flex;
+    justify-content: center;
+}
+
+.scConatiner div h1{
+    text-align: center;
+}
